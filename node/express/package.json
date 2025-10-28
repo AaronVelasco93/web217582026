@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Inicio de mi proyecto con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expres",
+    "http",
+    "server",
+    "node"
+  ],
+  "author": "AaronVelasco93",
+  "license": "ISC"
+}
